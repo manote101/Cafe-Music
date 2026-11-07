@@ -15,3 +15,8 @@ A quiet riverside cafe in an old Chinese town, with gently rising steam from a c
 Shop 5, the riverside cafe in an old Chinese town, in landscape 16:9 format (832 × 468 pixels).
 
 ![Shop 5 — rectangular still image](assets/china_16x9.png)
+
+## Stories and music prompts
+
+- [Thai cafe stories and Facebook hashtags — all five cafes](docs/cafe-stories.md)
+- [AI music prompts — all five cafes](docs/music-prompts.md)
